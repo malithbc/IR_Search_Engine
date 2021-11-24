@@ -1,7 +1,6 @@
 from elasticsearch import Elasticsearch, helpers
 import json
 from flask import Flask
-# from wtforms import Form, StringField, SelectField
 from flask import flash, render_template, request, redirect, jsonify
 import re
 from googletrans import Translator
