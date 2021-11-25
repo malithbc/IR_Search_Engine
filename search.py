@@ -193,13 +193,3 @@ def search_query_filtered(search_term, actor_filter, film_filter, award_filter, 
 
     return actors_list, actors, films, awards, other_creations
     
-    
-            
-
-
-
-
-
-
-
-    
